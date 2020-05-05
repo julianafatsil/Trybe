@@ -32,4 +32,12 @@ const allStudents = () => {
   return sumStudents;
 }
 
-console.log(allStudents());
+//console.log(allStudents());
+const getValueByNumber = (objectLesson, index) => {
+  let arrayKeys = Object.keys(objectLesson)
+  return objectLesson[arrayKeys[index]];
+  //Se quisesse trazer a inf da key, retira [objectLesson]
+}
+
+console.log(getValueByNumber(lesson1, 2));
+// Output: 'Matématica'

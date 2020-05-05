@@ -1,25 +1,25 @@
 const lesson1 = {
-    materia: 'Matemática',
-    numeroEstudantes: 20,
-    professor: 'Maria Clara',
-    turno: 'manhã',
-  };
-  
-  const lesson2 = {
-    materia: 'História',
-    numeroEstudantes: 20,
-    professor: 'Carlos',
-  };
-  
-  const lesson3 = {
-    materia: 'Matemática',
-    numeroEstudantes: 10,
-    professor: 'Maria Clara',
-    turno: 'noite',
-  };
+  materia: 'Matemática',
+  numeroEstudantes: 20,
+  professor: 'Maria Clara',
+  turno: 'manhã',
+};
 
-  const valuesObject = (objectList) => {
-      return Object.values(objectList);
-  }
+const lesson2 = {
+  materia: 'História',
+  numeroEstudantes: 20,
+  professor: 'Carlos',
+};
 
-  console.log(valuesObject(lesson2));
+const lesson3 = {
+  materia: 'Matemática',
+  numeroEstudantes: 10,
+  professor: 'Maria Clara',
+  turno: 'noite',
+};
+
+const valuesObject = (objectList) => {
+  return Object.values(objectList);
+}
+
+console.log(valuesObject(lesson2));

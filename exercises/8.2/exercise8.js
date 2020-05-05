@@ -19,8 +19,14 @@ const lesson3 = {
   turno: 'noite'
 };
 
-const allLessons = {};
-Object.assign(allLessons, { lesson1, lesson2, lesson3 });
+const verifyPair = (lesson, key, value) => {
+  let result = false;
+  if (lesson[key] === value)
+    result = true;
+  return result;
+}
 
-console.log(allLessons);
-
+console.log(verifyPair(lesson3, 'turno', 'noite'));
+// Output: true,
+console.log(verifyPair(lesson3, 'materia', 'Maria Clara'));
+// Output: false
