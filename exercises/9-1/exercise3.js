@@ -64,7 +64,7 @@ const books = [
 ];
 
 const expected_result = [
- {
+  {
     id: 1,
     name: 'As Crônicas de Gelo e Fogo',
     genre: 'Fantasia',
@@ -109,15 +109,15 @@ const expected_result = [
 function fantasyOrScienceFiction() {
   // escreva seu código aqui
   //genero === fixção cientifica || 
-//   let newArray = [];
-//   for (let index = 0; index < books.length; index += 1) {
-//       if ((books[index].genre === 'Fantasia') || (books[index].genre === 'Ficção Científica')){
-//         newArray.push(books[index]);
-//       }
-//   }
-  const isScienceFictionOrFantasy =  (book) => book.genre === 'Fantasia' || book.genre === 'Ficção Científica'; 
+  //   let newArray = [];
+  //   for (let index = 0; index < books.length; index += 1) {
+  //       if ((books[index].genre === 'Fantasia') || (books[index].genre === 'Ficção Científica')){
+  //         newArray.push(books[index]);
+  //       }
+  //   }
+  const isScienceFictionOrFantasy = (book) => book.genre === 'Fantasia' || book.genre === 'Ficção Científica';
   const newArray = books.filter(isScienceFictionOrFantasy);
-  return(newArray);
+  return (newArray);
 }
 // console.log(fantasyOrScienceFiction());
 

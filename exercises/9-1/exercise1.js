@@ -65,13 +65,13 @@ const books = [
 ];
 
 const author1947 = (book) => book.author.birthYear === 1947; //retorna true ou false
-    //console.log(author1947(books[1]));  //testando 
+//console.log(author1947(books[1]));  //testando 
 
 function authorBornIn1947() {
-    let result = books.find(author1947); //vai armazenar na varável result o objeto que veio com a condição verdadeira
-    //console.log(result); Traz o objeto inteiro
-    return result.author.name; //vai filtrar o que veio na result, pegando só o nome do autor
+  let result = books.find(author1947); //vai armazenar na varável result o objeto que veio com a condição verdadeira
+  //console.log(result); Traz o objeto inteiro
+  return result.author.name; //vai filtrar o que veio na result, pegando só o nome do autor
 }
 
-console.log(authorBornIn1947()); 
+console.log(authorBornIn1947());
 assert.equal(authorBornIn1947(), 'Stephen King');
