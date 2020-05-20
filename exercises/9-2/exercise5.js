@@ -75,17 +75,10 @@ const expected_result = {
 };
 
 function longestNamedBook() {
-  // escreva seu código aqui
-    const bookLongestName = books.reduce(( (accumulator, currentValue) => {
-        accumulator['name'] = (accumulator['name'] ? accumulator['name'] : ''); // Forma de inicializar, só se não tiver valor
-        
-        if((accumulator['name'] === '') || (currentValue.name.length > accumulator.name.length)) { // Faz a verificação se o nome do book é maior do que tem armazenado
-            accumulator = currentValue;
-        }
-        return accumulator;
-    }), {}); //Armazena o tipo do retorno
-    return bookLongestName; //retorna a const que recebe o reduce, nunca esquecer return da funtion
+  return books.reduce(((accumulator, currentValue) =>
+    currentValue.name === accumulator.name ? currentValue : accumulator
+  ),{name: ''});
 }
-// console.log(longestNamedBook())
+ console.log(longestNamedBook())
 
 assert.deepEqual(longestNamedBook(), expected_result);

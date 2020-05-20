@@ -1,4 +1,4 @@
-Nos exercícios de hoje, você vai fazer quinze pequenos programas. Todos trabalham a lógica condicional (if/else e switch), operadores aritméticos (+, -, *, /, %) e operadores lógicos (>, <, &&, ||)
+## Nos exercícios de hoje, você vai fazer quinze pequenos programas. Todos trabalham a lógica condicional (if/else e switch), operadores aritméticos (+, -, *, /, %) e operadores lógicos (>, <, &&, ||)
 
 1- Faça cinco programas, um para cada operação aritmética básica. Seu programa deve ter duas variáveis, a e b, definidas no começo com os valores que serão operados. Faça programas para:
 
