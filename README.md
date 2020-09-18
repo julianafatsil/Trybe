@@ -67,7 +67,7 @@ Let's go!!
 ##### Banco de dados Relacional
 - [ ] *Transformando ideias em um modelo de banco de dados*
 - [ ] *Normalização, Formas Normais e Dumps*
-- [ ] *Transformando ideias em um modelo de banco de dados - Parte 2
+- [ ] *Transformando ideias em um modelo de banco de dados - Parte 2*
 - [ ] *[Projeto - One For All]()*
 ##### Introdução - NoSQL
 - [ ] *Introdução - NoSQL*
@@ -108,46 +108,42 @@ Let's go!!
 - [ ] 30-1 *Introdução - Deploy*
 - [ ] 30-1 *Infraestrutura - Deploy com Heroku*
 - [ ] 30-2 *Deploy - Gerenciadores de Processos*
-- [ ] 30-3 *[Projeto - Stranger Things].()*
-- [ ] 31-1 *[Projeto - Trybeer].()*
+- [ ] 30-3 *[Projeto - Stranger Things]()*
+- [ ] 31-1 *[Projeto - Trybeer]()*
 ##### Introdução - Arquitetura
 - [ ] 32-1 *Arquitetura - Princípios SOLID*
 - [ ] 32-2 *ORM - Interface da aplicação com o banco de dados*
 - [ ] 32-3 *Arquitetura de Software - DDD*
 - [ ] 32-4 *Boas práticas na escrita de testes*
-- [ ] 32-5 *[Projeto - API de Blogs].()*
+- [ ] 32-5 *[Projeto - API de Blogs]()*
 ##### Sockets
 - [ ] 33-1 *Sockets - TCP/UDP & NET*
 - [ ] 33-2 *Sockets - Socket.io*
-- [ ] 33-3 *[Projeto - Webchat].()*
-- [ ] 34-1 *[Projeto - Trybeer v2].()*
-## Ciencia da Computação
+- [ ] 33-3 *[Projeto - Webchat]()*
+- [ ] 34-1 *[Projeto - Trybeer v2]()*
 ##### Introdução - Ciência da Computação
 - [ ] 35-1 *Introdução - Ciência da Computação*
 - [ ] 35-1 *Arquitetura de Computadores*
 - [ ] 35-2 *Arquitetura de redes*
 - [ ] 35-3 *Redes de computadores, ferramentas e segurança*
-- [ ] 35-4 *[Projeto - Explorando os protocolos].()*
-## Python
+- [ ] 35-4 *[Projeto - Explorando os protocolos]()*
 ##### Introdução - Python
 - [ ] 36-1 *Aprendendo Python*
 - [ ] 36-2 *Testes e Exceções*
 - [ ] 36-3 *Entrada e Saída de dados*
 - [ ] 36-4 *Raspagem de Dados*
-- [ ] 36-5 *[Projeto - Tech news].()*
-## Programação orientada a objetos
+- [ ] 36-5 *[Projeto - Tech news]()*
 ##### Introdução - Programação orientada a objetos
 - [ ] 37-1 *Introdução à programação orientada a objetos*
 - [ ] 37-2 *Programação orientada a objetos na prática*
 - [ ] 37-3 *Padrões de projeto*
-- [ ] 37-4 *[Projeto - Relatórios de Estoque].()*
-## Estrutura de Dados
+- [ ] 37-4 *[Projeto - Relatórios de Estoque]()*
 ##### Introdução - Estrutura de dados
 - [ ] 38-1 *Estrutura de Dados I - Arrays*
 - [ ] 38-2 *Estrutura de Dados I - Complexidade de Algoritmos*
 - [ ] 38-3 *Recursividade e Estratégias para solução de problemas*
 - [ ] 38-4 *Algoritmos de ordenação e busca*
-- [ ] 38-5 *[Projeto - Algoritmos].()*
+- [ ] 38-5 *[Projeto - Algoritmos]()*
 - [ ] 39-1 *Estrutura de dados II - Hash maps & Dict*
 - [ ] 39-2 *Estrutura de dados II - Set*
-- [ ] 39-3 *[Projeto - Restaurant Orders].()*
+- [ ] 39-3 *[Projeto - Restaurant Orders]()*
