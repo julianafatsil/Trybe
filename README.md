@@ -11,7 +11,16 @@ Let's go!!
 - [ ] *Jest - Primeiros passos no Jest*
 - [ ] *Testes Assíncronos*
 - [ ] *Jest - Simulando comportamentos*
-- [ ] *<a href="https://github.com/tryber/sd-04-block11-project-jest/pull/42" target="_blank">Projeto - Jest Assíncrono e Mocking</a>*
+- [ ] *[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-04-block11-project-jest/pull/42){:target="_blank" rel="noopener noreferrer"}*
+- [ ]  [go](http://stackoverflow.com){:target="_blank"}
+- [ ]  [link](url){:target="_blank"}
+- [ ]  [1]: http://somelink.com/?target=_blank
+- [ ]  [Link](https://example.org/ "title" target="_blank")
+- [ ]  [Google](https://google.com" target="_blank)
+- [ ]  [Google] (http://www.google.com){target="_blank"}
+- [ ]  <a href="http://google.com/" target="_blank">Hello, world!</a>
+- [ ]  [Go to this page](http://google.com.br/?target=_blank)
+- [ ]  [Google](https://google.com" target="_blank)
 
 #####  Introdução - React
 - [ ] *'Hello, world!' no React!*
