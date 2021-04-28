@@ -58,7 +58,7 @@ Let's go!!
 - [ ] *Encontrando dados em um banco de dados*
 - [ ] *Filtrando dados de forma específica*
 - [ ] *Manipulando tabelas*
-- [ ] *[Projeto - All For One].()*
+- [ ] *[Projeto - All For One](https://github.com/tryber/sd-04-mysql-all-for-one/pull/40)*
 ##### Banco de dados Relacional
 - [ ] *Funções mais usadas no SQL*
 - [ ] *Descomplicando JOINs e UNIONs*
