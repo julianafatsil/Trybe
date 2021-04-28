@@ -11,7 +11,7 @@ Let's go!!
 - [ ] *Jest - Primeiros passos no Jest*
 - [ ] *Testes Assíncronos*
 - [ ] *Jest - Simulando comportamentos*
-- [ ] *Projeto - Jest Assíncrono e Mocking*
+- [ ] *<a href="https://github.com/tryber/sd-04-block11-project-jest/pull/42" target="_blank">Projeto - Jest Assíncrono e Mocking</a>*
 
 #####  Introdução - React
 - [ ] *'Hello, world!' no React!*
@@ -73,7 +73,7 @@ Let's go!!
 - [ ] *Introdução - NoSQL*
 - [ ] *MongoDB - Introdução*
 - [ ] *Filter Operators*
-- [ ] *[Projeto - Data Flights]()*
+- [ ] *[Projeto - Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/pull/105)*
 ##### Updates
 - [ ]  *Updates Simples*
 - [ ]  *Complex Updates - Arrays - Part 1*
