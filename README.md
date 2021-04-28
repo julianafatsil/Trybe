@@ -16,39 +16,39 @@ Let's go!!
 #####  Introdução - React
 - [ ] *'Hello, world!' no React!*
 - [ ] *Componentes React*
-- [ ] *Projeto - Movie Cards Library*
+- [ ] *[Projeto - Movie Cards Library](https://github.com/tryber/sd-04-block11-project-movie-cards-library/pull/46)*
 #####  React
 - [ ] *Components com estados*
 - [ ] *Eventos e formulários no Reacts*
-- [ ] *Project - Movie Cards Library Stateful*
+- [ ] *[Project - Movie Cards Library Stateful](https://github.com/tryber/sd-04-block12-project-movie-card-library-stateful/pull/49)*
 #####  React Component life cycle
 - [ ] *Improving component reuse: props.children and PropTypes*
 - [ ] *Ciclo de vida de componentes em React*
 - [ ] *React Router*
-- [ ] *Projeto - Movie Cards Library CRUD*
+- [ ] *[Projeto - Movie Cards Library CRUD](https://github.com/tryber/sd-04-project-movie-card-library-crud/pull/27)*
 #####  Agile Methodologies
 - [ ] *Metodologias Ágeis*
-- [ ] *Projeto - Frontend Online Store*
+- [ ] *[Projeto - Frontend Online Store](https://github.com/tryber/sd-04-project-frontend-online-store-06)*
 #####  React RTL
 - [ ] *Testando React com a React Testing Library*
 - [ ] *Testando React com a React Testing Library - Parte 2*
-- [ ] *Projeto - Testes em React*
+- [ ] *[Projeto - Testes em React](https://github.com/tryber/sd-04-project-react-testing-library/pull/63)*
 #####  React & Redux
 - [ ] *Introdução ao Redux*
 - [ ] *React com Redux - Parte 1*
 - [ ] *React com Redux - Prática*
 - [ ] *React com Redux - Parte 2*
 - [ ] *Testes síncronos com React-Redux*
-- [ ] *Projeto - Tabela com filtros de dados*
+- [ ] *[Projeto - Tabela com filtros de dados](https://github.com/tryber/sd-04-project-react-redux-starwars-database-filters/pull/26)*
 #####  React & Redux
-- [ ] *Projeto - Trivia Game)*
+- [ ] *[Projeto - Trivia Game](https://github.com/tryber/sd-04-project-trivia-react-redux-7)*
 #####  React Context API & Hooks
 - [ ] *Context API do React*
 - [ ] *React Hooks - useState e useContext*
 - [ ] *React Hooks - useEffect e Hooks customizados*
-- [ ] *Projeto - StarWars Datatable com Context API e Hooks*
+- [ ] *[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-04-project-starwars-datatable-hooks/pull/35)*
 #####  Final Front-end Project
-- [ ] *Projeto - Recipe App*
+- [ ] *[Projeto - Recipe App](https://github.com/tryber/sd-04-recipes-app-6)*
 
 ## Back-end development
 #####  Introdução a Banco de dados Relacional
@@ -63,12 +63,12 @@ Let's go!!
 - [ ] *Funções mais usadas no SQL*
 - [ ] *Descomplicando JOINs e UNIONs*
 - [ ] *Stored Routines & Subqueries*
-- [ ] *[Projeto - Vocabulary Booster]()*
+- [ ] *[Projeto - Vocabulary Booster](https://github.com/tryber/sd-04-mysql-vocabulary-booster/pull/35)*
 ##### Banco de dados Relacional
 - [ ] *Transformando ideias em um modelo de banco de dados*
 - [ ] *Normalização, Formas Normais e Dumps*
 - [ ] *Transformando ideias em um modelo de banco de dados - Parte 2*
-- [ ] *[Projeto - One For All]()*
+- [ ] *[Projeto - One For All](https://github.com/tryber/sd-07-mysql-one-for-all/pull/76)*
 ##### Introdução - NoSQL
 - [ ] *Introdução - NoSQL*
 - [ ] *MongoDB - Introdução*
