@@ -11,44 +11,44 @@ Let's go!!
 - [ ] *Jest - Primeiros passos no Jest*
 - [ ] *Testes Assíncronos*
 - [ ] *Jest - Simulando comportamentos*
-- [ ] *[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-04-block11-project-jest/pull/42)*
+- [x] *[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-04-block11-project-jest/pull/42)*
 
 #####  Introdução - React
 - [ ] *'Hello, world!' no React!*
 - [ ] *Componentes React*
-- [ ] *[Projeto - Movie Cards Library](https://github.com/tryber/sd-04-block11-project-movie-cards-library/pull/46)*
+- [x] *[Projeto - Movie Cards Library](https://github.com/tryber/sd-04-block11-project-movie-cards-library/pull/46)*
 #####  React
 - [ ] *Components com estados*
 - [ ] *Eventos e formulários no Reacts*
-- [ ] *[Project - Movie Cards Library Stateful](https://github.com/tryber/sd-04-block12-project-movie-card-library-stateful/pull/49)*
+- [x] *[Project - Movie Cards Library Stateful](https://github.com/tryber/sd-04-block12-project-movie-card-library-stateful/pull/49)*
 #####  React Component life cycle
 - [ ] *Improving component reuse: props.children and PropTypes*
 - [ ] *Ciclo de vida de componentes em React*
 - [ ] *React Router*
-- [ ] *[Projeto - Movie Cards Library CRUD](https://github.com/tryber/sd-04-project-movie-card-library-crud/pull/27)*
+- [x] *[Projeto - Movie Cards Library CRUD](https://github.com/tryber/sd-04-project-movie-card-library-crud/pull/27)*
 #####  Agile Methodologies
 - [ ] *Metodologias Ágeis*
-- [ ] *[Projeto - Frontend Online Store](https://github.com/tryber/sd-04-project-frontend-online-store-06)*
+- [x] *[Projeto - Frontend Online Store](https://github.com/tryber/sd-04-project-frontend-online-store-06)*
 #####  React RTL
 - [ ] *Testando React com a React Testing Library*
 - [ ] *Testando React com a React Testing Library - Parte 2*
-- [ ] *[Projeto - Testes em React](https://github.com/tryber/sd-04-project-react-testing-library/pull/63)*
+- [x] *[Projeto - Testes em React](https://github.com/tryber/sd-04-project-react-testing-library/pull/63)*
 #####  React & Redux
 - [ ] *Introdução ao Redux*
 - [ ] *React com Redux - Parte 1*
 - [ ] *React com Redux - Prática*
 - [ ] *React com Redux - Parte 2*
 - [ ] *Testes síncronos com React-Redux*
-- [ ] *[Projeto - Tabela com filtros de dados](https://github.com/tryber/sd-04-project-react-redux-starwars-database-filters/pull/26)*
+- [x] *[Projeto - Tabela com filtros de dados](https://github.com/tryber/sd-04-project-react-redux-starwars-database-filters/pull/26)*
 #####  React & Redux
-- [ ] *[Projeto - Trivia Game](https://github.com/tryber/sd-04-project-trivia-react-redux-7)*
+- [x] *[Projeto - Trivia Game](https://github.com/tryber/sd-04-project-trivia-react-redux-7)*
 #####  React Context API & Hooks
 - [ ] *Context API do React*
 - [ ] *React Hooks - useState e useContext*
 - [ ] *React Hooks - useEffect e Hooks customizados*
-- [ ] *[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-04-project-starwars-datatable-hooks/pull/35)*
+- [x] *[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-04-project-starwars-datatable-hooks/pull/35)*
 #####  Final Front-end Project
-- [ ] *[Projeto - Recipe App](https://github.com/tryber/sd-04-recipes-app-6)*
+- [x] *[Projeto - Recipe App](https://github.com/tryber/sd-04-recipes-app-6)*
 
 ## Back-end development
 #####  Introdução a Banco de dados Relacional
@@ -58,22 +58,22 @@ Let's go!!
 - [ ] *Encontrando dados em um banco de dados*
 - [ ] *Filtrando dados de forma específica*
 - [ ] *Manipulando tabelas*
-- [ ] *[Projeto - All For One](https://github.com/tryber/sd-04-mysql-all-for-one/pull/40)*
+- [x] *[Projeto - All For One](https://github.com/tryber/sd-04-mysql-all-for-one/pull/40)*
 ##### Banco de dados Relacional
 - [ ] *Funções mais usadas no SQL*
 - [ ] *Descomplicando JOINs e UNIONs*
 - [ ] *Stored Routines & Subqueries*
-- [ ] *[Projeto - Vocabulary Booster](https://github.com/tryber/sd-04-mysql-vocabulary-booster/pull/35)*
+- [x] *[Projeto - Vocabulary Booster](https://github.com/tryber/sd-04-mysql-vocabulary-booster/pull/35)*
 ##### Banco de dados Relacional
 - [ ] *Transformando ideias em um modelo de banco de dados*
 - [ ] *Normalização, Formas Normais e Dumps*
 - [ ] *Transformando ideias em um modelo de banco de dados - Parte 2*
-- [ ] *[Projeto - One For All](https://github.com/tryber/sd-07-mysql-one-for-all/pull/76)*
+- [x] *[Projeto - One For All](https://github.com/tryber/sd-07-mysql-one-for-all/pull/76)*
 ##### Introdução - NoSQL
 - [ ] *Introdução - NoSQL*
 - [ ] *MongoDB - Introdução*
 - [ ] *Filter Operators*
-- [ ] *[Projeto - Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/pull/105)*
+- [x] *[Projeto - Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/pull/105)*
 ##### Updates
 - [ ]  *Updates Simples*
 - [ ]  *Complex Updates - Arrays - Part 1*
