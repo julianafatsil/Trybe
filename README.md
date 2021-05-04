@@ -61,7 +61,7 @@ Let's go!!
 - [x] *[Projeto - All For One](https://github.com/tryber/sd-04-mysql-all-for-one/pull/40)*
 ##### Banco de dados Relacional
 - [ ] *Funções mais usadas no SQL*
-- [ ] *Descomplicando JOINs e UNIONs*
+- [ ] *[Descomplicando JOINs e UNIONs](https://github.com/julianafatsil/Trybe/pull/6)*
 - [ ] *Stored Routines & Subqueries*
 - [x] *[Projeto - Vocabulary Booster](https://github.com/tryber/sd-04-mysql-vocabulary-booster/pull/35)*
 ##### Banco de dados Relacional
