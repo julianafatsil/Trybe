@@ -74,7 +74,7 @@ Let's go!!
 - [ ] *[Filter Operators](https://github.com/julianafatsil/Trybe/pull/7)*
 - [x] *[Projeto - Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/pull/105)*
 ##### Updates
-- [ ]  *Updates Simples*
+- [ ]  *[Updates Simples](https://github.com/julianafatsil/Trybe/pull/8)*
 - [ ]  *Complex Updates - Arrays - Part 1*
 - [ ]  *Updates Complexos - Arrays - Parte 2*
 - [ ]  *Projeto - Commerce*
