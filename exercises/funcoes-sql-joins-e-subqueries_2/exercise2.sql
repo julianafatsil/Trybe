@@ -1,5 +1,5 @@
 SELECT 
-    b.domestic_sales, b.international_sales
+    m.title, b.domestic_sales, b.international_sales
 FROM
     BoxOffice AS b
         JOIN
