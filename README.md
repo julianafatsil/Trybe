@@ -77,7 +77,7 @@ Let's go!!
 - [ ]  *[Updates Simples](https://github.com/julianafatsil/Trybe/pull/8)*
 - [ ]  *Complex Updates - Arrays - Part 1*
 - [ ]  *Updates Complexos - Arrays - Parte 2*
-- [ ]  *Projeto - Commerce*
+- [ ]  *[Projeto - Commerce].(https://github.com/tryber/sd-08-mongodb-commerce/pull/57)*
 ##### Aggregation Framework
 - [ ] *Aggregation Framework - Part 1*
 - [ ] *Aggregation Framework - Part 2*
