@@ -72,12 +72,12 @@ Let's go!!
 ##### Introdução - NoSQL
 - [ ] *[MongoDB - Introdução](https://github.com/julianafatsil/Trybe/pull/5)*
 - [ ] *[Filter Operators](https://github.com/julianafatsil/Trybe/pull/7)*
-- [x] *[Projeto - Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/pull/105)*
+- [x] :airplane: *[Projeto - Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/pull/105)*
 ##### Updates
 - [ ]  *[Updates Simples](https://github.com/julianafatsil/Trybe/pull/8)*
 - [ ]  *Complex Updates - Arrays - Part 1*
 - [ ]  *Updates Complexos - Arrays - Parte 2*
-- [x]  *[Projeto - Commerce](https://github.com/tryber/sd-08-mongodb-commerce/pull/57)*
+- [x]  :hamburger: *[Projeto - Commerce](https://github.com/tryber/sd-08-mongodb-commerce/pull/57)*
 ##### Aggregation Framework
 - [ ] *Aggregation Framework - Part 1*
 - [ ] *Aggregation Framework - Part 2*
