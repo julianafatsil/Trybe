@@ -8,8 +8,8 @@
 **Exercício 3** : Retorne apenas os campos name e birth do documento com _id igual a 8.  
 **Exercício 4** : Retorne todos os documentos em que o campo name.first seja igual a John , utilizando o método ````pretty()```` .  
 **Exercício 5** : Retorne os 3 primeiros documentos da coleção bios utilizando o método ````pretty()```` .  
-**Exercício 6** : Retorne 2 documentos da coleção bios pulando os 5 primeiros documentos.
-Utilizando o mongoimport , importe o arquivo books.json para a sua instância local do MongoDB e utilize a coleção books para construir queries para as seguintes questões:  
+**Exercício 6** : Retorne 2 documentos da coleção bios pulando os 5 primeiros documentos.  
+**Utilizando o mongoimport , importe o arquivo [books.json](https://s3.us-east-2.amazonaws.com/assets.app.betrybe.com/back-end/mongodb/books-48d15e4d8924badc2308cc4a62eb3ea4.json) para a sua instância local do MongoDB e utilize a coleção books para construir queries para as seguintes questões:**  
 **Exercício 7** : Retorne a quantidade de documentos da coleção books .  
 **Exercício 8** : Conte quantos livros existem com o status "PUBLISH" .  
 **Exercício 9** : Exiba os campos title , isbn e pageCount dos 3 primeiros livros. NÃO retorne o campo _id .  
