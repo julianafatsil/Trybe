@@ -8,9 +8,9 @@ Let's go!!
 
 ## Fundamentos
 #####  Unix & Bash
-- [ ] *Introdução - Unix & Shell*
-- [ ] *Unix & Bash - Parte 1*
-- [ ] *Unix & Bash - Parte 2*
+- [x] *Introdução - Unix & Shell*
+- [x] *Unix & Bash - Parte 1*
+- [x] *Unix & Bash - Parte 2*
 #####  Git, GitHub e Internet
 - [ ] *Git & GitHub - O que é e para que serve*
 - [ ] *Git & GitHub - Entendendo os comandos*
@@ -20,7 +20,7 @@ Let's go!!
 - [ ] *HTML & CSS - Primeiros passos em CSS*
 - [ ] *HTML & CSS - Seletores e posicionamento*
 - [ ] *HTML Semântico*
-- [ ] *[Projeto - Lessons Learned](https://github.com/tryber/sd-04-block3-project-html-css/pull/34)*
+- [x] *[Projeto - Lessons Learned](https://github.com/tryber/sd-04-block3-project-html-css/pull/34)*
 #####  Introdução à JavaScript e Lógica de Programação
 - [ ] *JavaScript - Primeiros passos*
 - [ ] *JavaScript - Array e loop For*
@@ -32,9 +32,9 @@ Let's go!!
 - [ ] *JavaScript - Eventos*
 - [ ] *JavaScript - Web Storage*
 - [ ] *Fundamentos - JavaScript - Projetos*
-- [ ] *[Projeto - Arte com Pixels](https://github.com/tryber/sd-04-block5-project-pixels-art)*
-- [ ] *[Projeto - Lista de tarefas](https://github.com/tryber/sd-04-block5-project-todo-list/pull/54)*
-- [ ] *(Bônus) [Projeto - Meme Generator](https://github.com/tryber/sd-04-block5-project-meme-generator/pull/50)*
+- [x] *[Projeto - Arte com Pixels](https://github.com/tryber/sd-04-block5-project-pixels-art)*
+- [x] *[Projeto - Lista de tarefas](https://github.com/tryber/sd-04-block5-project-todo-list/pull/54)*
+- [x] *(Bônus) [Projeto - Meme Generator](https://github.com/tryber/sd-04-block5-project-meme-generator/pull/50)*
 - [ ] *(Bônus) Projeto - Adivinhe a Cor*
 - [ ] *(Bônus) Projeto - Carta Misteriosa*
 #####  HTML e CSS: Forms, Flexbox e Responsivo
@@ -44,25 +44,25 @@ Let's go!!
 - [ ] *CSS Flexbox - Parte 1*
 - [ ] *CSS Flexbox - Parte 2*
 - [ ] *CSS Responsivo - Mobile First*
-- [ ] *[Projeto Facebook](https://github.com/tryber/sd-04-block6-project-facebook-signup/pull/43)*
-- [ ] *[Projeto Daily Prophet](https://github.com/tryber/sd-04-block7-project-daily-prophet/pull/39)*
+- [x] *[Projeto Facebook](https://github.com/tryber/sd-04-block6-project-facebook-signup/pull/43)*
+- [x] *[Projeto Daily Prophet](https://github.com/tryber/sd-04-block7-project-daily-prophet/pull/39)*
 - [ ] *Projeto - Trybewarts*
 #####  Introdução à JavaScript ES6 e Testes Unitários
 - [ ] *JavaScript ES6 - let, const, arrow functions e template literals*
 - [ ] *JavaScript ES6 - Objects*
 - [ ] *Testes unitários em JavaScript*
-- [ ] *[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-04-block8-project-js-unit-tests/pull/35)*
+- [x] *[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-04-block8-project-js-unit-tests/pull/35)*
 #####  Higher Order Functions do JavaScript ES6
 - [ ] *JavaScript ES6 - Introdução a Higher Order Functions*
 - [ ] *JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
 - [ ] *JavaScript ES6 - Higher Order Functions - map e filter*
 - [ ] *JavaScript ES6 - Higher Order Functions - reduce*
 - [ ] *JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais*
-- [ ] *[Projeto - Zoo functions](https://github.com/tryber/sd-04-block9-project-zoo-functions/pull/31)*
+- [x] *[Projeto - Zoo functions](https://github.com/tryber/sd-04-block9-project-zoo-functions/pull/31)*
 #####  JavaScript Assíncrono e Promises
 - [ ] *JavaScript Assíncrono e Callbacks*
 - [ ] *JavaScript Promises*
-- [ ] *[Projeto - Carrinho de Compras](https://github.com/tryber/sd-04-block10-project-shopping-cart/pull/45)*
+- [x] *[Projeto - Carrinho de Compras](https://github.com/tryber/sd-04-block10-project-shopping-cart/pull/45)*
 #####  Testes automatizados com Jest
 - [ ] *Primeiros passos no Jest*
 - [ ] *Jest - Testes Assíncronos*
