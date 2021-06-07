@@ -6,13 +6,70 @@ Exercises and projects developed at Trybe
 <br>
 Let's go!!
 
-## Front-end development
-#####  Jest
-- [ ] *Jest - Primeiros passos no Jest*
-- [ ] *Testes Assíncronos*
+## Fundamentos
+#####  Unix & Bash
+- [ ] *Introdução - Unix & Shell*
+- [ ] *Unix & Bash - Parte 1*
+- [ ] *Unix & Bash - Parte 2*
+#####  Git, GitHub e Internet
+- [ ] *Git & GitHub - O que é e para que serve*
+- [ ] *Git & GitHub - Entendendo os comandos*
+- [ ] *Internet - Entendendo como ela funciona*
+#####  Introdução à HTML e CSS
+- [ ] *HTML & CSS - Estruturas de página*
+- [ ] *HTML & CSS - Primeiros passos em CSS*
+- [ ] *HTML & CSS - Seletores e posicionamento*
+- [ ] *HTML Semântico*
+- [ ] *[Projeto - Lessons Learned](https://github.com/tryber/sd-04-block3-project-html-css/pull/34)*
+#####  Introdução à JavaScript e Lógica de Programação
+- [ ] *JavaScript - Primeiros passos*
+- [ ] *JavaScript - Array e loop For*
+- [ ] *JavaScript - Objetos e funções*
+- [ ] *Projeto - Playground Functions*
+#####  JavaScript: DOM, Eventos e Web Storage
+- [ ] *JavaScript - DOM e seletores*
+- [ ] *JavaScript - Trabalhando com elementos*
+- [ ] *JavaScript - Eventos*
+- [ ] *JavaScript - Web Storage*
+- [ ] *Fundamentos - JavaScript - Projetos*
+- [ ] *[Projeto - Arte com Pixels](https://github.com/tryber/sd-04-block5-project-pixels-art)*
+- [ ] *[Projeto - Lista de tarefas](https://github.com/tryber/sd-04-block5-project-todo-list/pull/54)*
+- [ ] *(Bônus) [Projeto - Meme Generator](https://github.com/tryber/sd-04-block5-project-meme-generator/pull/50)*
+- [ ] *(Bônus) Projeto - Adivinhe a Cor*
+- [ ] *(Bônus) Projeto - Carta Misteriosa*
+#####  HTML e CSS: Forms, Flexbox e Responsivo
+- [ ] *HTML & CSS - Forms*
+- [ ] *Bibliotecas JavaScript e Frameworks CSS*
+- [ ] *Introdução - CSS Flexboxs*
+- [ ] *CSS Flexbox - Parte 1*
+- [ ] *CSS Flexbox - Parte 2*
+- [ ] *CSS Responsivo - Mobile First*
+- [ ] *[Projeto Facebook](https://github.com/tryber/sd-04-block6-project-facebook-signup/pull/43)*
+- [ ] *[Projeto Daily Prophet](https://github.com/tryber/sd-04-block7-project-daily-prophet/pull/39)*
+- [ ] *Projeto - Trybewarts*
+#####  Introdução à JavaScript ES6 e Testes Unitários
+- [ ] *JavaScript ES6 - let, const, arrow functions e template literals*
+- [ ] *JavaScript ES6 - Objects*
+- [ ] *Testes unitários em JavaScript*
+- [ ] *[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-04-block8-project-js-unit-tests/pull/35)*
+#####  Higher Order Functions do JavaScript ES6
+- [ ] *JavaScript ES6 - Introdução a Higher Order Functions*
+- [ ] *JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
+- [ ] *JavaScript ES6 - Higher Order Functions - map e filter*
+- [ ] *JavaScript ES6 - Higher Order Functions - reduce*
+- [ ] *JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais*
+- [ ] *[Projeto - Zoo functions](https://github.com/tryber/sd-04-block9-project-zoo-functions/pull/31)*
+#####  JavaScript Assíncrono e Promises
+- [ ] *JavaScript Assíncrono e Callbacks*
+- [ ] *JavaScript Promises*
+- [ ] *[Projeto - Carrinho de Compras](https://github.com/tryber/sd-04-block10-project-shopping-cart/pull/45)*
+#####  Testes automatizados com Jest
+- [ ] *Primeiros passos no Jest*
+- [ ] *Jest - Testes Assíncronos*
 - [ ] *Jest - Simulando comportamentos*
 - [x] *[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-04-block11-project-jest/pull/42)*
 
+## Front-end development
 #####  Introdução - React
 - [ ] *'Hello, world!' no React!*
 - [ ] *Componentes React*
@@ -82,67 +139,80 @@ Let's go!!
 - [ ] *Aggregation Framework - Part 1*
 - [ ] *Aggregation Framework - Part 2*
 - [ ] *Projeto - Aggregations*
-##### Introdução - NodeJS
-- [ ] *NodeJS - Introdução*
-- [ ] *NodeJS - Fluxo Assíncrono*
+##### Introdução ao desenvolvimento Web com NodeJS
+- [ ] *Node.js - Introdução*
+- [ ] *Node.js - Fluxo Assíncrono*
+- [ ] Testes com NodeJS
+- [ ] Express: HTTP com Node.js
+- [ ] Praticando Express
 - [ ] *NodeJS - Arquitetura*
-- [ ] *Projeto - A CLI of Ice and Fire*
+- [ ] *Projeto - Talker Manager*
 ##### NodeJS
 - [ ] *Express: HTTP com Node.js*
 - [ ] *Arquitetura de Software - Introdução ao MVC*
 - [ ] *Projeto - Cookmaster*
-##### Arquitetura de Software
-- [ ] *Arquitetura de Software - Camada de Serviço*
+##### NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+- [ ] *Arquitetura de Software - Camada de Model*
+- [ ] *Arquitetura de Software - Camada de Controller e Service*
 - [ ] *Arquitetura web - Rest e Restful*
+- [ ] *Arquitetura de Software - Testando as Camadas*
 - [ ] *Projeto - Store Manager*
-##### NodeJS
+##### Autenticação e Upload de Arquivos
 - [ ] *NodeJS - JWT - (JSON Web Token)*
 - [ ] *NodeJS - Upload de arquivos com Multer*
-- [ ] *Projeto - Cookmaster V2*
-## Infraestrutura
-##### Introdução - Deploy
+- [ ] *Projeto - Cookmaster*
+### Infraestrutura
+##### Deployment
 - [ ] *Infraestrutura - Deploy com Heroku*
 - [ ] *Deploy - Gerenciadores de Processos*
 - [ ] *Projeto - Stranger Things*
-- [ ] 30-1 *Introdução - Deploy*
-- [ ] 30-1 *Infraestrutura - Deploy com Heroku*
-- [ ] 30-2 *Deploy - Gerenciadores de Processos*
-- [ ] 30-3 *Projeto - Stranger Things*
-- [ ] 31-1 *Projeto - Trybeer*
-##### Introdução - Arquitetura
-- [ ] 32-1 *Arquitetura - Princípios SOLID*
-- [ ] 32-2 *ORM - Interface da aplicação com o banco de dados*
-- [ ] 32-3 *Arquitetura de Software - DDD*
-- [ ] 32-4 *Boas práticas na escrita de testes*
-- [ ] 32-5 *Projeto - API de Blogs*
+- [ ] *Projeto - Trybeer*
+##### Arquitetura: SOLID e ORM
+- [ ] *Arquitetura - Princípios SOLID*
+- [ ] *ORM - Interface da aplicação com o banco de dados*
+- [ ] *ORM - Associations*
+- [ ] *Boas práticas na escrita de testes*
+- [ ] *Projeto - API de Blogs*
 ##### Sockets
-- [ ] 33-1 *Sockets - TCP/UDP & NET*
-- [ ] 33-2 *Sockets - Socket.io*
-- [ ] 33-3 *Projeto - Webchat*
-- [ ] 34-1 *Projeto - Trybeer v2*
-##### Introdução - Ciência da Computação
-- [ ] 35-1 *Introdução - Ciência da Computação*
-- [ ] 35-1 *Arquitetura de Computadores*
-- [ ] 35-2 *Arquitetura de redes*
-- [ ] 35-3 *Redes de computadores, ferramentas e segurança*
-- [ ] 35-4 *Projeto - Explorando os protocolos*
-##### Introdução - Python
-- [ ] 36-1 *Aprendendo Python*
-- [ ] 36-2 *Testes e Exceções*
-- [ ] 36-3 *Entrada e Saída de dados*
-- [ ] 36-4 *Raspagem de Dados*
-- [ ] 36-5 *Projeto - Tech news*
-##### Introdução - Programação orientada a objetos
-- [ ] 37-1 *Introdução à programação orientada a objetos*
-- [ ] 37-2 *Programação orientada a objetos na prática*
-- [ ] 37-3 *Padrões de projeto*
-- [ ] 37-4 *Projeto - Relatórios de Estoque*
-##### Introdução - Estrutura de dados
-- [ ] 38-1 *Estrutura de Dados I - Arrays*
-- [ ] 38-2 *Estrutura de Dados I - Complexidade de Algoritmos*
-- [ ] 38-3 *Recursividade e Estratégias para solução de problemas*
-- [ ] 38-4 *Algoritmos de ordenação e busca*
-- [ ] 38-5 *Projeto - Algoritmos*
-- [ ] 39-1 *Estrutura de dados II - Hash maps & Dict*
-- [ ] 39-2 *Estrutura de dados II - Set*
-- [ ] 39-3 *Projeto - Restaurant Orders*
+- [ ] *Arquitetura de Software - Camada de View*
+- [ ] *Sockets - TCP/UDP & NET*
+- [ ] *Sockets - Socket.io*
+- [ ] *Sockets - Praticando Socket.io*
+- [ ] *Projeto - Webchat*
+- [ ] *Projeto - Trybeer v2*
+
+## Ciência da Computação
+##### Arquitetura de Computadores e Redes
+- [ ] *Arquitetura de Computadores*
+- [ ] *Arquitetura de redes*
+- [ ] *Redes de computadores, ferramentas e segurança*
+- [ ] *Projeto - Explorando os protocolos*
+##### Introdução - Python e Raspagem de Dados da Web
+- [ ] *Aprendendo Python*
+- [ ] *Entrada e Saída de dados*
+- [ ] *Raspagem de Dados*
+- [ ] *Testes*
+- [ ] *Projeto - Tech news*
+##### Programação orientada a objetos e Padrões de Projeto
+- [ ] *Introdução à programação orientada a objetos*
+- [ ] *Herança, Composições e Interfaces*
+- [ ] *Padrões de projeto*
+- [ ] *Projeto - Relatórios de Estoque*
+##### Algoritmos e Estrutura de dados
+- [ ] *Complexidade de Algoritmos*
+- [ ] *Recursividade e Estratégias para solução de problemas*
+- [ ] *Recursividade e Estratégias para solução de problemas*
+- [ ] *Algoritmos de ordenação e busca*
+- [ ] *Projeto - Algoritmos*
+##### Estrutura de Dados: Hash e Set
+- [ ] *Arrays*
+- [ ] *Hashmap e Dict*
+- [ ] *Set*
+- [ ] *Projeto - Restaurant Orders*
+##### Estrutura de Dados: Pilhas, Filas e Listas
+- [ ] *Pilhas*
+- [ ] *Deque*
+- [ ] *Nó e Listas ligadas*
+- [ ] *Listas duplamente ligadas*
+- [ ] *Projeto - TING - Trybe Is Not Google*
+
