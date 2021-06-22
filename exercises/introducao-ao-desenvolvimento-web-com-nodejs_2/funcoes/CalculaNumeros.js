@@ -1,4 +1,4 @@
-function calcularValores(a, b, c) {
+async function calcularValores(a, b, c) {
   const promise = new Promise((resolve, reject) => {
     if (typeof a !== "number" || typeof b !== "number" || typeof c !== "number")
       reject(new Error("Informe apenas números"));
