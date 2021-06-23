@@ -138,7 +138,7 @@ Let's go!!
 ##### Aggregation Framework
 - [ ] *Aggregation Framework - Part 1*
 - [ ] *Aggregation Framework - Part 2*
-- [ ] *Projeto - Aggregations*
+- [ ] *[Projeto - Aggregations](https://github.com/tryber/sd-09-mongodb-aggregations/pull/43)*
 ##### Introdução ao desenvolvimento Web com NodeJS
 - [ ] *Node.js - Introdução*
 - [ ] *Node.js - Fluxo Assíncrono*
