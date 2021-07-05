@@ -146,7 +146,7 @@ Let's go!!
 - [ ] Express: HTTP com Node.js
 - [ ] Praticando Express
 - [ ] *NodeJS - Arquitetura*
-- [ ] *Projeto - Talker Manager*
+- [ ] *[Projeto - Talker Manager](https://github.com/tryber/sd-09-project-talker-manager/pull/44/)*
 ##### NodeJS
 - [ ] *Express: HTTP com Node.js*
 - [ ] *Arquitetura de Software - Introdução ao MVC*
