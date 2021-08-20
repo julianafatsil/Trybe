@@ -1,9 +1,8 @@
 #  Full Stack Web Development | [TRYBE](https://www.betrybe.com/) 
-<br>
 <img align = "right" src=https://static1.conquistesuavida.com.br/ingredients/3/54/52/03/@/24702--ingredient_detail_ingredient-2.png  hspace="20" vspace="5">
 </a>
 Exercises and projects developed at Trybe
-<br>
+
 Let's go!!
 
 ## Fundamentos
@@ -116,13 +115,13 @@ Let's go!!
 - [ ] *Filtrando dados de forma específica*
 - [ ] *Manipulando tabelas*
 - [x] *[Projeto - All For One](https://github.com/tryber/sd-04-mysql-all-for-one/pull/40)*
-##### Banco de dados Relacional
+##### Funções SQL, Joins e subqueries
 - [ ] *Funções mais usadas no SQL*
 - [ ] *[Descomplicando JOINs e UNIONs](https://github.com/julianafatsil/Trybe/pull/6)*
 - [ ] *Stored Routines & Subqueries*
 - [x] *[Projeto - Vocabulary Booster](https://github.com/tryber/sd-04-mysql-vocabulary-booster/pull/35)*
-##### Banco de dados Relacional
-- [ ] *Transformando ideias em um modelo de banco de dados*
+##### Normalização e Modelagem de Banco de Dados
+- [ ] *Transformando ideias em um modelo de banco de dados - Parte 1*
 - [ ] *Normalização, Formas Normais e Dumps*
 - [ ] *Transformando ideias em um modelo de banco de dados - Parte 2*
 - [x] *[Projeto - One For All](https://github.com/tryber/sd-07-mysql-one-for-all/pull/76)*
@@ -130,12 +129,12 @@ Let's go!!
 - [ ] *[MongoDB - Introdução](https://github.com/julianafatsil/Trybe/pull/5)*
 - [ ] *[Filter Operators](https://github.com/julianafatsil/Trybe/pull/7)*
 - [x] :airplane: *[Projeto - Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/pull/105)*
-##### Updates
+##### Mongo DB: Updates Simples e Complexos
 - [ ]  *[Updates Simples](https://github.com/julianafatsil/Trybe/pull/8)*
 - [ ]  *Complex Updates - Arrays - Part 1*
 - [ ]  *Updates Complexos - Arrays - Parte 2*
 - [x]  :hamburger: *[Projeto - Commerce](https://github.com/tryber/sd-08-mongodb-commerce/pull/57)*
-##### Aggregation Framework
+##### Mongo DB: Aggregation Framework
 - [ ] *Aggregation Framework - Part 1*
 - [ ] *Aggregation Framework - Part 2*
 - [x] *[Projeto - Aggregations](https://github.com/tryber/sd-09-mongodb-aggregations/pull/43)*
@@ -160,8 +159,8 @@ Let's go!!
 ##### Autenticação e Upload de Arquivos
 - [ ] *NodeJS - JWT - (JSON Web Token)*
 - [ ] *NodeJS - Upload de arquivos com Multer*
+- [ ] *Testando APIs com Testes de Integração
 - [x] *[Projeto - Cookmaster](https://github.com/tryber/sd-09-cookmaster-v2/pull/34)*
-### Infraestrutura
 ##### Deployment
 - [ ] *Infraestrutura - Deploy com Heroku*
 - [ ] *Deploy - Gerenciadores de Processos*
@@ -171,7 +170,6 @@ Let's go!!
 - [ ] *Arquitetura - Princípios SOLID*
 - [ ] *ORM - Interface da aplicação com o banco de dados*
 - [ ] *ORM - Associations*
-- [ ] *Boas práticas na escrita de testes*
 - [x] *[Projeto - API de Blogs](https://github.com/tryber/sd-09-project-blogs-api/pull/36)*
 ##### Sockets
 - [ ] *Arquitetura de Software - Camada de View*
@@ -179,7 +177,7 @@ Let's go!!
 - [ ] *Sockets - Socket.io*
 - [ ] *Sockets - Praticando Socket.io*
 - [x] *[Projeto - Webchat](https://github.com/tryber/sd-09-project-webchat/pull/20)*
-- [ ] *Projeto - Trybeer v2*
+- [ ] *Projeto - App de Delivery*
 
 ## Ciência da Computação
 ##### Arquitetura de Computadores e Redes
@@ -187,32 +185,34 @@ Let's go!!
 - [ ] *Arquitetura de redes*
 - [ ] *Redes de computadores, ferramentas e segurança*
 - [ ] *Projeto - Explorando os protocolos*
-##### Introdução - Python e Raspagem de Dados da Web
+##### Introdução à Python
 - [ ] *Aprendendo Python*
 - [ ] *Entrada e Saída de dados*
-- [ ] *Raspagem de Dados*
 - [ ] *Testes*
-- [ ] *Projeto - Tech news*
+- [ ] *Projeto - Jog Insights*
 ##### Programação orientada a objetos e Padrões de Projeto
 - [ ] *Introdução à programação orientada a objetos*
 - [ ] *Herança, Composições e Interfaces*
 - [ ] *Padrões de projeto*
 - [ ] *Projeto - Relatórios de Estoque*
-##### Algoritmos e Estrutura de dados
+##### Redes e Raspagem de Dados
+- [ ] *Arquitetura de redess*
+- [ ] *Redes de Computadores, ferramentas e segurança*
+- [ ] *Raspagem de Dados*
+- [ ] *Projeto - Tech news*
+##### Algoritmos
 - [ ] *Complexidade de Algoritmos*
-- [ ] *Recursividade e Estratégias para solução de problemas*
 - [ ] *Recursividade e Estratégias para solução de problemas*
 - [ ] *Algoritmos de ordenação e busca*
 - [ ] *Projeto - Algoritmos*
-##### Estrutura de Dados: Hash e Set
+##### Estrutura de Dados I: Arrays, Hashmaps e Sets
+- [ ] *Arquitetura de Computadores*
 - [ ] *Arrays*
 - [ ] *Hashmap e Dict*
 - [ ] *Set*
 - [ ] *Projeto - Restaurant Orders*
-##### Estrutura de Dados: Pilhas, Filas e Listas
-- [ ] *Pilhas*
+##### Estrutura de Dados II: Pilhas, Filas e Listas
+- [ ] *Nó e Listas Encadeadas*
 - [ ] *Deque*
-- [ ] *Nó e Listas ligadas*
-- [ ] *Listas duplamente ligadas*
+- [ ] *Pilhas*
 - [ ] *Projeto - TING - Trybe Is Not Google*
-
