@@ -156,29 +156,29 @@ Let's go!!
 - [ ] *Arquitetura de Software - Camada de Controller e Service*
 - [ ] *Arquitetura web - Rest e Restful*
 - [ ] *Arquitetura de Software - Testando as Camadas*
-- [ ] *Projeto - Store Manager*
+- [ ] *[Projeto - Store Manager](https://github.com/tryber/sd-09-store-manager/pull/27)*
 ##### Autenticação e Upload de Arquivos
 - [ ] *NodeJS - JWT - (JSON Web Token)*
 - [ ] *NodeJS - Upload de arquivos com Multer*
-- [ ] *Projeto - Cookmaster*
+- [ ] *[Projeto - Cookmaster](https://github.com/tryber/sd-09-cookmaster-v2/pull/34)*
 ### Infraestrutura
 ##### Deployment
 - [ ] *Infraestrutura - Deploy com Heroku*
 - [ ] *Deploy - Gerenciadores de Processos*
-- [ ] *Projeto - Stranger Things*
-- [ ] *Projeto - Trybeer*
+- [ ] *[Projeto - Stranger Things Front-End](https://github.com/tryber/sd-09-stranger-things-frontend/pull/22)*
+- [ ] *[Projeto - Stranger Things Back-End](https://github.com/tryber/sd-09-stranger-things-backend/pull/33)*
 ##### Arquitetura: SOLID e ORM
 - [ ] *Arquitetura - Princípios SOLID*
 - [ ] *ORM - Interface da aplicação com o banco de dados*
 - [ ] *ORM - Associations*
 - [ ] *Boas práticas na escrita de testes*
-- [ ] *Projeto - API de Blogs*
+- [ ] *[Projeto - API de Blogs](https://github.com/tryber/sd-09-project-blogs-api/pull/36)*
 ##### Sockets
 - [ ] *Arquitetura de Software - Camada de View*
 - [ ] *Sockets - TCP/UDP & NET*
 - [ ] *Sockets - Socket.io*
 - [ ] *Sockets - Praticando Socket.io*
-- [ ] *Projeto - Webchat*
+- [ ] *[Projeto - Webchat](https://github.com/tryber/sd-09-project-webchat/pull/20)*
 - [ ] *Projeto - Trybeer v2*
 
 ## Ciência da Computação
