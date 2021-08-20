@@ -138,7 +138,7 @@ Let's go!!
 ##### Aggregation Framework
 - [ ] *Aggregation Framework - Part 1*
 - [ ] *Aggregation Framework - Part 2*
-- [ ] *[Projeto - Aggregations](https://github.com/tryber/sd-09-mongodb-aggregations/pull/43)*
+- [x] *[Projeto - Aggregations](https://github.com/tryber/sd-09-mongodb-aggregations/pull/43)*
 ##### Introdução ao desenvolvimento Web com NodeJS
 - [ ] *Node.js - Introdução*
 - [ ] *Node.js - Fluxo Assíncrono*
@@ -146,7 +146,7 @@ Let's go!!
 - [ ] Express: HTTP com Node.js
 - [ ] Praticando Express
 - [ ] *NodeJS - Arquitetura*
-- [ ] *[Projeto - Talker Manager](https://github.com/tryber/sd-09-project-talker-manager/pull/44/)*
+- [x] *[Projeto - Talker Manager](https://github.com/tryber/sd-09-project-talker-manager/pull/44/)*
 ##### NodeJS
 - [ ] *Express: HTTP com Node.js*
 - [ ] *Arquitetura de Software - Introdução ao MVC*
@@ -156,29 +156,29 @@ Let's go!!
 - [ ] *Arquitetura de Software - Camada de Controller e Service*
 - [ ] *Arquitetura web - Rest e Restful*
 - [ ] *Arquitetura de Software - Testando as Camadas*
-- [ ] *[Projeto - Store Manager](https://github.com/tryber/sd-09-store-manager/pull/27)*
+- [x] *[Projeto - Store Manager](https://github.com/tryber/sd-09-store-manager/pull/27)*
 ##### Autenticação e Upload de Arquivos
 - [ ] *NodeJS - JWT - (JSON Web Token)*
 - [ ] *NodeJS - Upload de arquivos com Multer*
-- [ ] *[Projeto - Cookmaster](https://github.com/tryber/sd-09-cookmaster-v2/pull/34)*
+- [x] *[Projeto - Cookmaster](https://github.com/tryber/sd-09-cookmaster-v2/pull/34)*
 ### Infraestrutura
 ##### Deployment
 - [ ] *Infraestrutura - Deploy com Heroku*
 - [ ] *Deploy - Gerenciadores de Processos*
-- [ ] *[Projeto - Stranger Things Front-End](https://github.com/tryber/sd-09-stranger-things-frontend/pull/22)*
-- [ ] *[Projeto - Stranger Things Back-End](https://github.com/tryber/sd-09-stranger-things-backend/pull/33)*
+- [x] *[Projeto - Stranger Things Front-End](https://github.com/tryber/sd-09-stranger-things-frontend/pull/22)*
+- [x] *[Projeto - Stranger Things Back-End](https://github.com/tryber/sd-09-stranger-things-backend/pull/33)*
 ##### Arquitetura: SOLID e ORM
 - [ ] *Arquitetura - Princípios SOLID*
 - [ ] *ORM - Interface da aplicação com o banco de dados*
 - [ ] *ORM - Associations*
 - [ ] *Boas práticas na escrita de testes*
-- [ ] *[Projeto - API de Blogs](https://github.com/tryber/sd-09-project-blogs-api/pull/36)*
+- [x] *[Projeto - API de Blogs](https://github.com/tryber/sd-09-project-blogs-api/pull/36)*
 ##### Sockets
 - [ ] *Arquitetura de Software - Camada de View*
 - [ ] *Sockets - TCP/UDP & NET*
 - [ ] *Sockets - Socket.io*
 - [ ] *Sockets - Praticando Socket.io*
-- [ ] *[Projeto - Webchat](https://github.com/tryber/sd-09-project-webchat/pull/20)*
+- [x] *[Projeto - Webchat](https://github.com/tryber/sd-09-project-webchat/pull/20)*
 - [ ] *Projeto - Trybeer v2*
 
 ## Ciência da Computação
