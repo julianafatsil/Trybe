@@ -1,0 +1,15 @@
+{
+  "name": "introducao-ao-desenvolvimento-web-com-nodejs_2",
+  "version": "1.0.0",
+  "description": "Exercícios da aula de Node.js Fluxo asíncrono",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node funcoes/random.js"
+  },
+  "author": "Julianafatsil",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
