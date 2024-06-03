@@ -181,42 +181,42 @@ Let's go!!
 - [x] *Sockets - Socket.io*
 - [x] *Sockets - Praticando Socket.io*
 - [x] *[Projeto - Webchat](https://github.com/tryber/sd-09-project-webchat/pull/20)*
-- [ ] *[Projeto - App de Delivery](https://github.com/tryber/sd-09-project-delivery-app/tree/main-group-3)*
+- [x] *[Projeto - App de Delivery](https://github.com/tryber/sd-09-project-delivery-app/tree/main-group-3)*
 
 ## Ciência da Computação
 ##### Arquitetura de Computadores e Redes
-- [ ] *Arquitetura de Computadores*
-- [ ] *Arquitetura de redes*
-- [ ] *Redes de computadores, ferramentas e segurança*
-- [ ] *Projeto - Explorando os protocolos*
+- [x] *Arquitetura de Computadores*
+- [x] *Arquitetura de redes*
+- [x] *Redes de computadores, ferramentas e segurança*
+- [x] *Projeto - Explorando os protocolos*
 ##### Introdução à Python
-- [ ] *Aprendendo Python*
-- [ ] *Entrada e Saída de dados*
-- [ ] *Testes*
-- [ ] *Projeto - Jog Insights*
+- [x] *Aprendendo Python*
+- [x] *Entrada e Saída de dados*
+- [x] *Testes*
+- [x] *Projeto - Jog Insights*
 ##### Programação orientada a objetos e Padrões de Projeto
-- [ ] *Introdução à programação orientada a objetos*
-- [ ] *Herança, Composições e Interfaces*
-- [ ] *Padrões de projeto*
-- [ ] *Projeto - Relatórios de Estoque*
+- [x] *Introdução à programação orientada a objetos*
+- [x] *Herança, Composições e Interfaces*
+- [x] *Padrões de projeto*
+- [x] *Projeto - Relatórios de Estoque*
 ##### Redes e Raspagem de Dados
-- [ ] *Arquitetura de redess*
-- [ ] *Redes de Computadores, ferramentas e segurança*
-- [ ] *Raspagem de Dados*
-- [ ] *Projeto - Tech news*
+- [x] *Arquitetura de redess*
+- [x] *Redes de Computadores, ferramentas e segurança*
+- [x] *Raspagem de Dados*
+- [x] *Projeto - Tech news*
 ##### Algoritmos
-- [ ] *Complexidade de Algoritmos*
-- [ ] *Recursividade e Estratégias para solução de problemas*
-- [ ] *Algoritmos de ordenação e busca*
-- [ ] *Projeto - Algoritmos*
+- [x] *Complexidade de Algoritmos*
+- [x] *Recursividade e Estratégias para solução de problemas*
+- [x] *Algoritmos de ordenação e busca*
+- [x] *Projeto - Algoritmos*
 ##### Estrutura de Dados I: Arrays, Hashmaps e Sets
-- [ ] *Arquitetura de Computadores*
-- [ ] *Arrays*
-- [ ] *Hashmap e Dict*
-- [ ] *Set*
-- [ ] *Projeto - Restaurant Orders*
+- [x] *Arquitetura de Computadores*
+- [x] *Arrays*
+- [x] *Hashmap e Dict*
+- [x] *Set*
+- [x] *Projeto - Restaurant Orders*
 ##### Estrutura de Dados II: Pilhas, Filas e Listas
-- [ ] *Nó e Listas Encadeadas*
-- [ ] *Deque*
-- [ ] *Pilhas*
-- [ ] *Projeto - TING - Trybe Is Not Google*
+- [x] *Nó e Listas Encadeadas*
+- [x] *Deque*
+- [x] *Pilhas*
+- [x] *Projeto - TING - Trybe Is Not Google*
